@@ -1,0 +1,8 @@
+Sum1
+Aut1
+Bod1
+t1,t2,t3
+Sor1
+Dat1
+Lin1
+Fil1
